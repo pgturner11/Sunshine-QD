@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "quickdigitproto1",
+      "maintainer": "Sunshine Electronics",
+      "websiteURL": "http://www.sunshine.us.com",
+      "email" : "peyton@sunshine.us.com",
+      "platforms":
+      [
+        {
+          "name": "Quick Digit Boards",
+          "architecture": "samd",
+          "version": "1.6.20",
+          "category": "Contributed",
+          "url": "https://github.com/pgturner11/Sunshine-QD/blob/main/custom-board/Quick-Digit-proto1.zip",
+          "archiveFileName": "Quick-Digit-proto1.zip",
+          "checksum": "SHA-256:ab7b906612bb099f956dd2517625d7d5ca90b4323890311163c5d8cf9f994860",
+          "size": "4341418",
+          "boards": [
+            {
+              "name": "Quick Digit proto 1"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
