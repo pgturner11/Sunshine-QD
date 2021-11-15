@@ -13,7 +13,7 @@
           "architecture": "samd",
           "version": "0.0.01",
           "category": "Contributed",
-          "url": "https://github.com/pgturner11/Sunshine-QD/blob/main/custom-board/Quick-Digit-proto1.zip?raw=true",
+          "url": "https://raw.githubusercontent.com/pgturner11/Sunshine-QD/main/custom-board/Quick-Digit-proto1.zip",
           "archiveFileName": "Quick-Digit-proto1.zip",
           "checksum": "SHA-256:ab7b906612bb099f956dd2517625d7d5ca90b4323890311163c5d8cf9f994860",
           "size": "4341418",
